@@ -1,4 +1,4 @@
-f = open("17 задания/17 файлы/17-3.txt")
+f = open("17 задания/17 файлы/17_5.txt")
 a = []
 for s in f:
     a.append(int(s))

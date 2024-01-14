@@ -1,5 +1,5 @@
 for n in range(1, 115):
-    n2 = bin(n)[2::]
+    n2 = bin(n)[2:]
     if n2[-1] == 0:
         n2 += '00'
     else:

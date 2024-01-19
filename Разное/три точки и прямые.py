@@ -4,11 +4,12 @@ def draw_line(canvas, x1, y1, x2, y2):
     canvas.create_line(x1, y1, x2, y2)
 
 root = tk.Tk()
-canvas = tk.Canvas(root, width=400, height=400)
+canvas = tk.Canvas(root, width=100, height=100)
 canvas.pack()
 
 x1, y1 = 10, 10
 x2, y2 = 50, 50
+
 x3, y3 = 25, 25
 
 k1 = (y2 - y1) / (x2 - x1)

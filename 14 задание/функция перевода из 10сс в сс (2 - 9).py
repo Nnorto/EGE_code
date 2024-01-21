@@ -6,4 +6,4 @@ def f(num, sist):
     return res
 
 
-print(f(124, 5))
+print(f(13212, 7))

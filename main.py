@@ -23,3 +23,4 @@ for n in range(0, 10000):
     if prime(su):
         print(n, su)
         break
+

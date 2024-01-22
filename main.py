@@ -1,11 +1,12 @@
-def prime(n):
+def prime(number):
     d = 2
-    while d*d <= n:
-        if n % d == 0:
+    while d * d <= number:
+        if number % d == 0:
             return False
         else:
             d += 1
     return True
+
 
 for n in range(0, 10000):
 
@@ -18,8 +19,7 @@ for n in range(0, 10000):
         if '>3' in s:
             s = s.replace('>3', '>1', 1)
 
-    su = s.count('1')*1 + s.count('2')*2 + s.count('3')*3
+    su = s.count('1') * 1 + s.count('2') * 2 + s.count('3') * 3
     if prime(su):
         print(n, su)
         break
-

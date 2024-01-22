@@ -20,7 +20,7 @@ print(count, max_sum)
 
 '''
 a = []
-for s in open("17 задания/17 файлы/17_2.txt"):
+for s in open("17 задание/17 файлы/17_2.txt"):
     a.append(int(s))
 
 count = 0

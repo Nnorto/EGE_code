@@ -1,26 +1,20 @@
-def prime(number):
-    d = 2
-    while d * d <= number:
-        if number % d == 0:
-            return False
-        else:
-            d += 1
-    return True
+def jopa(n):
+    vsd = []
+    for d in range(2, int(n ** 0.5) + 1):
+        if n % d == 0:
+            if d % 10 == 9 and d != 9:
+                vsd.append(d)
+            if (n // d) % 10 == 9 and (n // d) != 0:
+                vsd.append(n // d)
+    return vsd
 
+j = 0
+for n in range(567000+1, 10**10):
+    vsedel = jopa(n)
+    if len(vsedel) > 0:
+        print(n, vsedel[0])
+        j += 1
+        if j == 5:
+            break
 
-for n in range(0, 10000):
-
-    s = '>' + '1' * 10 + '2' * n + '3' * 10
-    while '>1' in s or '>2' in s or '>3' in s:
-        if '>1' in s:
-            s = s.replace('>1', '1>', 1)
-        if '>2' in s:
-            s = s.replace('>2', '>3', 1)
-        if '>3' in s:
-            s = s.replace('>3', '>1', 1)
-
-    su = s.count('1') * 1 + s.count('2') * 2 + s.count('3') * 3
-    if prime(su):
-        print(n, su)
-        break
 

@@ -1,20 +1,26 @@
-def jopa(n):
-    vsd = []
-    for d in range(2, int(n ** 0.5) + 1):
-        if n % d == 0:
-            if d % 10 == 9 and d != 9:
-                vsd.append(d)
-            if (n // d) % 10 == 9 and (n // d) != 0:
-                vsd.append(n // d)
-    return vsd
+def jopa(aray, flag):
+    ch_count = 0
+    nch_count = 0
+    n = aray
+    for i in range(len(n)):
+        if n[i] % 2 == 0:
+            ch_count += 1
+        else:
+            nch_count += 1
 
-j = 0
-for n in range(567000+1, 10**10):
-    vsedel = jopa(n)
-    if len(vsedel) > 0:
-        print(n, vsedel[0])
-        j += 1
-        if j == 5:
-            break
+    if flag:
+        return ch_count
+    else:
+        return nch_count
 
+# создает массив чисел из последовательности
+def posled():
+    s = input()
+    a = s.split()  # это теперь массив
+    for x in range(len(a)):
+        a[x] = int(a[x])
+    return a
 
+mas = posled()
+mas2 = posled()
+print(jopa(mas, True), jopa(mas2, False))

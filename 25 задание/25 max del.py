@@ -7,11 +7,10 @@ def prime(n):
 def maxprime(n):
     for d in range(2, int(n ** 0.5) + 1):
         if n % d == 0:
-            if prime(n // d):
-                return 0
-            else:
+            if not prime(n // d):
                 return n // d
     return 0
+
 f = 0
 for n in range(450000+1, 10**10):
     if maxprime(n) != 0:

@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt   # этот модуль нужно скачать это не встроенная библеотека
 import numpy as np
 import math
-
+import sys
+sys.setrecursionlimit(10000)
 def circle(point, center, radius):
     # Функция для проверки, лежит ли точка на окружности
     epsilon = 0.005
@@ -29,13 +30,19 @@ def peres(start, s_end, center, radius, epsilon=0.005):
 
     return point1 + point2
 
+
 start = (0, 0)
-s_end = (4, 0)
+s_end = (0, 4)
+start1 = (0, 0)
+s_end1 = (4, 0)
 center = (2, 2)
 radius = 2
 
+
 points_peres = peres(start, s_end, center, radius)
+points_peres2 = peres(start1, s_end1, center, radius)
 print("Точки пересечения:", points_peres)
+print("Точки пересечения:", points_peres2)
 
 # Нарисуем окружность
 theta = np.linspace(0, 2*np.pi, 100)
@@ -45,10 +52,14 @@ y_circle = center[1] + radius * np.sin(theta)
 plt.plot(x_circle, y_circle, label='Окружность')
 
 # Нарисуем отрезок
-plt.plot([start[0], s_end[0]], [start[1], s_end[1]], 'r', label='Отрезок')
+
 
 # Отметим точки пересечения
 for point in points_peres:
+    plt.plot(point[0], point[1], 'bo')
+
+plt.plot([-2, 4], [4, -2], 'r', label='Отрезок')
+for point in points_peres2:
     plt.plot(point[0], point[1], 'bo')
 
 plt.xlabel('X')

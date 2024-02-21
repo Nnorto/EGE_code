@@ -9,4 +9,5 @@ def f(n):
             s += f(i)
         return s
 
+
 print(f(15))

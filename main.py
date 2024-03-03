@@ -1,12 +1,11 @@
-def f(n):
-    if n < 3:
-        return 2
-    if n > 2 and n % 2 != 0:
-        return f(n - 1) - f(n - 2)
-    if n > 2 and n % 2 == 0:
-        s = 0
-        for i in range(1, n):
-            s += f(i)
-        return s
+a = list(map(int, open("17 задание/17 файлы/17-1.txt")))
 
-print(f(15))
+max_s = -10**10
+count = 0
+for i in range(len(a)-1):
+    if (abs(a[i]) % 3 == 0) + (abs(a[i + 1]) % 3 == 0) >= 1:
+        s = a[i] + a[i + 1]
+        count += 1
+        max_s = max(max_s, s)
+
+print(count, max_s)

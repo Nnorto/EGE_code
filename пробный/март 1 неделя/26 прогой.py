@@ -11,8 +11,7 @@ for i in range(count_zad):
 count_ych = len(list(set(ych)))
 comp.sort()
 
-# в этом мас
-# сиве количество номер участника и дата последнего задания
+# в этом массиве количество номер участника и дата последнего задания
 max_count = -1
 max_ych = []
 for i in range(len(id)):
@@ -31,6 +30,7 @@ for i in range(len(max_ych)):
     s += max_ych[i]
 """
 # так мы ручками узнаем кто из этих ребят решил все задания первым
+# ['4041', '5110', '8203', '1871', '7905', '5823']
 for q in range(len(comp)):
     if comp[q][0] in s:
         print(comp[q][2][8:], comp[q][0]) 

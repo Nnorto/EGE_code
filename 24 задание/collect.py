@@ -1,6 +1,6 @@
 import string
 import collections
-s = open("24 пример файла").read()
+s = open("24 файл").read()
 mk = 0
 a = []
 for i in range(len(s) - 2):

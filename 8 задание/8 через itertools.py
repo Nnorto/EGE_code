@@ -10,7 +10,7 @@ print(count)
 """
 from itertools import *
 count = 0
-for x in product("КМ", "КУМА", "КУМА", "КУМА", "УА",):
+for x in product("КМ", "КУМА", "КУМА", "КУМА", "УА"):
     s = ''.join(x)
     if s[0] in 'КМ' and s[-1] in 'АУ':
         count += 1

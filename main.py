@@ -1,20 +1,8 @@
-import string
-import collections
-s = open("24 пример файла").read()
-mk = 0
-a = []
-for i in range(len(s) - 2):
-   if s[i] == s[i + 1]:
-      a.append(s[i + 2])
+from itertools import *
+count = 0
+for x in product("ABCX", repeat=5):
+    s = ''.join(x)
+    if (s.count('X') == 1 and s[-1] == 'X') or ('X' not in s):
+        count += 1
 
-alf = string.ascii_uppercase
-
-print(collections.Counter(a))
-
-for x in alf:
-   if a.count(x) > mk:
-      mk = a.count(x)
-      res = x
-
-print(res, mk)
-
+print(count)

@@ -24,3 +24,14 @@ for x in product("комбайн", repeat=7):
 
 
 print(s_count)
+
+#или
+
+from itertools import product, permutations
+alf = 'kombain'
+c = 0
+for x in permutations(alf, 7):
+    sss = ''.join(x)
+    if sss[0] != 'i' and 'ai' not in sss:
+        c += 1
+print(c)

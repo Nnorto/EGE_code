@@ -1,8 +1,12 @@
-from itertools import *
+alf = 'екмопртью'
 count = 0
-for x in product("ABCX", repeat=5):
-    s = ''.join(x)
-    if (s.count('X') == 1 and s[-1] == 'X') or ('X' not in s):
-        count += 1
-
-print(count)
+for x1 in alf:
+    for x2 in alf:
+        for x3 in alf:
+            for x4 in alf:
+                for x5 in alf:
+                    s = x1+x2+x3+x4+x5
+                    count += 1
+                    if s[0] != 'е' and s.count('к') == 2:
+                        print(count)
+                        exit()

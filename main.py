@@ -1,12 +1,19 @@
-alf = 'екмопртью'
-count = 0
-for x1 in alf:
-    for x2 in alf:
-        for x3 in alf:
-            for x4 in alf:
-                for x5 in alf:
-                    s = x1+x2+x3+x4+x5
-                    count += 1
-                    if s[0] != 'е' and s.count('к') == 2:
-                        print(count)
-                        exit()
+from ipaddress import *
+
+for mask in reversed(range(33)):
+    net1 = ip_network('202.3.20.24/' + str(mask), 0)
+    net2 = ip_network('202.3.27.11/' + str(mask), 0)
+    if net1.network_address == net2.network_address:
+        print(net1.netmask)
+        c = 0
+        for ad in net1:
+            add = bin(int(ad))[2:].zfill(32)
+            if add.count('1') % 2 == 0:
+                c += 1
+        print(c)
+        break
+
+
+
+
+

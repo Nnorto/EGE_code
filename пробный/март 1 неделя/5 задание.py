@@ -7,7 +7,7 @@ for n in range(1002, 10000):
         r = int(str(n1) + str(n2))
         if r > 85:
             print(n, r)
-            break
+
 
 
 

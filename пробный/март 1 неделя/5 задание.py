@@ -4,9 +4,10 @@ for n in range(1002, 10000):
         a.sort()
         n1 = a[0] + a[3]
         n2 = a[1] * a[2]
-        r = int(str(n1) + str(n2))
+        r = int(str(n2) + str(n1))
         if r > 85:
             print(n, r)
+            break
 
 
 

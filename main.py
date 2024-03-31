@@ -1,13 +1,9 @@
+from ipaddress import *
 
-s = open('24 пример файла').readline()
-s = s.split('X')
-dx = 3
-tk = dx
-for i in range(1, dx):
-    tk += len(s[i])
-mink = tk
-for i in range(2, len(s) - dx):
+for mask in range(0, 32+1):
+    net1 = ip_network(f'84.77.47.132/{str(mask)}', 0)
+    net2 = ip_network(f'84.77.48.132/{str(mask)}', 0)
+    if net1.network_address == net2.network_address :
+        print(net1.netmask)
 
-    tk = tk - len(s[i - 1]) + len(s[i + dx - 2])
-    mink = min(mink, tk)
-print(mink)
+

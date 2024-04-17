@@ -5,7 +5,7 @@ max19 = max(el19)
 count = 0
 maxs = -1000
 for i in range(len(a) - 1):
-    if (a[i] > max19) or (a[i+1] > max19):
+    if (a[i] > max19) + (a[i+1] > max19) >= 1:
         count += 1
         maxs = max(maxs,a[i] + a[i+1])
-print(count, maxs, max19)
+print(count, maxs)

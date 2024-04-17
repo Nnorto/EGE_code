@@ -1,4 +1,4 @@
-f = open('файлы/27_B.txt')
+f = open('27 файлы/27_B.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 ost0 = ost1 = ost2 = ost3 = ost4 = 0

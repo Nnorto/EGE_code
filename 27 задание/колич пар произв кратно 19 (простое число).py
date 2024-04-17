@@ -1,4 +1,4 @@
-f = open('файлы/27_A.txt')
+f = open('27 файлы/27_A.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 k19 = 0

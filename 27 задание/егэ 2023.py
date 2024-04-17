@@ -1,4 +1,4 @@
-f=open("файлы/27_A_1_day.txt")
+f=open("27 файлы/27_A_1_day.txt")
 k=int(f.readline())
 N=f.readline()
 a=list(map(int,f))

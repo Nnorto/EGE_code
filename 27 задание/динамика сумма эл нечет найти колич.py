@@ -1,13 +1,14 @@
 f = open('27 файлы/27_B.txt')
 n = int(f.readline())
-a = [int(x) for x in f]
-kch = 0
-knch = 0
+kch = knch = res = 0
+a = list(map(int, f))
 
 for i in range(len(a)):
     if a[i] % 2 == 0:
+        res += knch
         kch += 1
     else:
+        res += kch
         knch += 1
 
-print(kch * knch)
+print(res)

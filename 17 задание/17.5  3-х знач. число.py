@@ -1,4 +1,4 @@
-"""a = [int(s) for s in open("17 файлы/17_5.txt")]"""
+"""a = [int(s) for s in open("17 27 файлы/17_5.txt")]"""
 a = list(map(int, open('17 файлы/17-1.txt')))
 count = 0
 min_5 = 333343333232334432
@@ -19,7 +19,7 @@ print(count, max_sum)
 
 '''
 
-a = [int(s) for s in open("17 файлы/17_5.txt")]
+a = [int(s) for s in open("17 27 файлы/17_5.txt")]
 count = 0
 min_5 = 333343333232334432
 max_sum = 0

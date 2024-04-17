@@ -11,6 +11,7 @@ for x in range(26):
         r2 = int('24013', 26) + 2 * 26 ** 2
         summa = r1 + r2
         print(summa // 8)
+        break
 
 print("=" * 5)
 
@@ -26,6 +27,7 @@ def ss(x, y):
 for x in range(26):
     if all(ss(x, y) % 8 == 0 for y in range(26)):
         print(ss(x, 2) // 8)
+        break
 
 print("=" * 5)
 
@@ -42,3 +44,4 @@ for x in range(26):
             k += 1
         if k >= 26:
             print((int("13" + "00" + "5", 26) + x * 26 + 2 * 26 ** 2 + int("24013", 26) + 2 * 26 ** 2) // 8)
+

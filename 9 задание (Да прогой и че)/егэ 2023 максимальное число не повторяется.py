@@ -11,3 +11,14 @@ for i in f:
         sums += sum(a)
         break
 print(sums)
+
+f = open('9 задание (Да прогой и че)/файлы/9_9832-2')
+c = 0
+for z in f:
+    a = list(map(int, z.split()))
+    a.sort()
+    b = [a.count(x) for x in a]
+    if b.count(1) == 3 and b.count(2) == 4:
+        if a[-1] != a[-2]:
+            print(sum(a))
+            break

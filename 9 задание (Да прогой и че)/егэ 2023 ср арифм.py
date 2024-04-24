@@ -14,3 +14,27 @@ for i in f:
             count += 1
 
 print(count)
+
+# или
+
+f = open('файлы/KIM_0015973096_9')
+c = 0
+for i in f:
+    a = list(map(int, i.split()))
+    a.sort()
+    b = [a.count(x) for x in a]
+    if b.count(1) == 3 and b.count(2) == 4:
+        povtr = 0
+        sr_c = 0
+        sr_povtor = 0
+        for y in a:
+            if a.count(y) != 1:
+                povtr += y
+                sr_c += 1
+        sr_povtor = povtr/sr_c
+        if sr_povtor > sum(a) / 7:
+            c +=1
+
+print(c)
+
+

@@ -1,4 +1,4 @@
-f = open('17 задание/17 файлы/17statokt23.txt')
+f = open('17 файлы/17statokt23.txt')
 a = [int(x) for x in f]
 min3 = max([int(x) for x in a if abs(x) % 100 == 17])
 

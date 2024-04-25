@@ -1,4 +1,4 @@
-f = open("26 задание/Файлы/26.txt")
+f = open("26.txt")
 n = int(f.readline())
 a = list(map(int, f))
 a.sort(reverse=True)

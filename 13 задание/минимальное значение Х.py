@@ -13,6 +13,20 @@ for mask in range(16, 25): # x будем искать тут
     else:
         print(net.netmask)
 
+print("или")
+
+for x in range(16, 25):
+    net = ip_network(f'255.220.33.150/{x}', 0)
+    for ad in net:
+        ad_bin = bin(int(ad))[2:].zfill(32)
+        if ad_bin[:16].count('1') < ad_bin[16:].count('1'):
+            break
+    else:
+        print(x, net.netmask)
+
+
+
+
 
 
 

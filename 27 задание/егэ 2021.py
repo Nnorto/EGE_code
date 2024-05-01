@@ -1,6 +1,6 @@
-f=open("27 пример")
-k = int(f.readline())
-N=f.readline()
+f=open("27 файлы/27-A1.txt")
+k = 100
+N = f.readline()
 
 a=list(map(int,f))
 

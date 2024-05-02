@@ -11,7 +11,7 @@ for mask in range(16, 25): # x будем искать тут
         if adr.count('1') < adl.count('1'):
             break
     else:
-        print(net.netmask)
+        print(mask, net.netmask)
 
 print("или")
 

@@ -1,7 +1,6 @@
 from ipaddress import *
 
  # чем больше маска тем меньше компов в сети может быть
-count = 0
 for A in range(16, 25): # A будем искать тут reversed потому что просят максимальный
     net = ip_network(f'117.157.2.8/{A}', 0)
     flag = True
@@ -12,6 +11,9 @@ for A in range(16, 25): # A будем искать тут reversed потому
         if adr.count('1') < adl.count('1'):
             flag = False
             break
-    if flag == True:
+
+    if flag:
         print(A)
         break
+
+

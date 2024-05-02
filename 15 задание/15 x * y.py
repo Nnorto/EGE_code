@@ -8,6 +8,7 @@ for a in range(1, 1000):
         print(a)
         break
 
+
 #2
 
 for a in range(1, 500):
@@ -24,7 +25,7 @@ for a in range(1, 500):
 
 #3
 
-for a in range(1, 500):
+for a in range(1, 501):
     kxy = 0
     for x in range(1, 500):
         for y in range(1, 500):

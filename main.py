@@ -20,7 +20,6 @@ for s in f:
 
 print(c)
 
-
 for x in range(2030):
     c = 7 ** 170 + 7 ** 100 - x
     s = ""

@@ -1,30 +1,32 @@
-f = open('24 пример файла')
-c = 0
-for s in f:
-    a = list(map(int, s.split()))
-    a.sort()
-    b = []
-    for i in a:
-        b.append(a.count(i))
-    if b.count(3) == 3 and b.count(1) == 3:
-        sump = 0
-        sumnp = 0
-        for i in range(len(a)):
-            if b[i] == 3:
-                sump += a[i]
-        for i in range(len(a)):
-            if b[i] == 1:
-                sumnp += a[i]
-        if sump ** 2 > sumnp ** 2:
-            c += 1
+from turtle import *
+tracer(0)
+screensize(1500, 1500)
+c = 20
+left(90)
 
-print(c)
+for x in range(9):
+    fd(c*29)
+    rt(90)
+    fd(17*c)
+    rt(90)
+up()
+fd(c*5)
+rt(90)
+fd(c*1)
+lt(90)
+down()
+for x in range(9):
+    fd(c*64)
+    rt(90)
+    fd(48*c)
+    rt(90)
 
-for x in range(2030):
-    c = 7 ** 170 + 7 ** 100 - x
-    s = ""
-    while c > 0:
-        s = str(c % 7) + s
-        c //= 7
-    if s.count('0') == 71:
-        print(x)
+
+up()
+for x in range(-30, 30):
+    for y in range(-30, 30):
+        goto(x*c, y*c)
+        dot(3, "black")
+
+update()
+exitonclick()

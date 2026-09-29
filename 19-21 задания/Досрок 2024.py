@@ -19,6 +19,6 @@ def g(h):
 for s in range(1, 110):
     a, b = 13, s
     h = a, b
-    if g(h) == 'v2':
+    if g(h) == 'p2':
         print(b, g(h))
 

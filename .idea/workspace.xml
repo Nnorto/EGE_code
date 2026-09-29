@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27764f52-015e-40b5-8957-d4dfe834f59a" name="Changes" comment="Решение">
+      <change afterPath="$PROJECT_DIR$/24 задание/24 задание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/10_15322.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/17_15333.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/18_15334.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/22_15337.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24-263.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24-293.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24-309.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24-361.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_11667.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_11954.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_12476.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_13100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_15339.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_23206.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_23762.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_2577.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_28765.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24_28943.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/24var03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/26_15341.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/3_15315.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/files/9_15321.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_ЕГЭ 2026 день 1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-117b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_A_ЕГЭ 2026_День_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/f2py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/numpy-config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/_core/src/highway/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/ma/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/distributions/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/philox/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/__config__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_array_api_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_array_api_info.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_configtool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_configtool.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_add_newdocs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_add_newdocs.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_add_newdocs_scalars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_add_newdocs_scalars.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_asarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_asarray.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_dtype.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_dtype_ctypes.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_exceptions.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_internal.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_methods.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_multiarray_tests.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_multiarray_umath.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_operand_flag_tests.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_rational_tests.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_simd.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_simd.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_string_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_string_helpers.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_struct_ufunc_tests.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_type_aliases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_type_aliases.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_ufunc_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_ufunc_config.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_umath_tests.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/_umath_tests.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/arrayprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/arrayprint.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/cversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/defchararray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/defchararray.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/einsumfunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/einsumfunc.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/fromnumeric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/fromnumeric.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/function_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/function_base.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/getlimits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/getlimits.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/__multiarray_api.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/__multiarray_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/__ufunc_api.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/__ufunc_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/_neighborhood_iterator_imp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/_numpyconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/_public_dtype_api_table.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/arrayobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/arrayscalars.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/dtype_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/halffloat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/ndarrayobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/ndarraytypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_2_compat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_2_complexcompat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_3kcompat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_cpu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_endian.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_math.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_no_deprecated_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/npy_os.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/numpyconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/random/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/random/bitgen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/random/distributions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/random/libdivide.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/ufuncobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/include/numpy/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/lib/libnpymath.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/lib/npy-pkg-config/mlib.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/lib/npy-pkg-config/npymath.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/lib/pkgconfig/numpy.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/memmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/memmap.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/multiarray.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/numeric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/numeric.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/numerictypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/numerictypes.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/overrides.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/overrides.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/printoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/printoptions.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/records.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/shape_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/shape_base.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/strings.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/_locales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/_natype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/astype_copy.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/generate_umath_validation_data.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/recarray_from_file.fits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/cython/checks.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/cython/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/cython/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/limited_api/limited_api1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/limited_api/limited_api2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/limited_api/limited_api_latest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/limited_api/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/examples/limited_api/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test__exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_argparse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_array_api_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_array_coercion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_array_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_arraymethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_arrayobject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_arrayprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_casting_floatingpoint_errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_casting_unittests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_conversion_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_cpu_dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_cpu_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_custom_dtypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_cython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_defchararray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_deprecations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_dlpack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_dtype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_einsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_errstate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_extint128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_finfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_function_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_getlimits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_half.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_hashtable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_indexerrors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_indexing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_item_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_limited_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_longdouble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_mem_overlap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_mem_policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_memmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_multiarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_multiprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_multithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_nditer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_nep50_promotions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_numeric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_numerictypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_overrides.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_protocols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_scalar_ctors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_scalar_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_scalarbuffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_scalarinherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_scalarmath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_scalarprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_shape_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_simd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_simd_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_stringdtype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_ufunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_umath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_umath_accuracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_umath_complex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/tests/test_unicode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_core/umath.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_distributor_init.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_expired_attrs_2_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_expired_attrs_2_0.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_globals.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_pyinstaller/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_pyinstaller/hook-numpy.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_pyinstaller/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_pyinstaller/tests/pyinstaller-smoke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_pyinstaller/tests/test_pyinstaller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_typing/_nbit_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_typing/_nbit_base.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_typing/_ufunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_utils/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_utils/_convertions.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_utils/_inspect.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/_utils/_pep440.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/char/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/char/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/core/_dtype.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/core/_dtype_ctypes.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/core/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/core/overrides.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/ctypeslib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/ctypeslib/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/ctypeslib/_ctypeslib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/ctypeslib/_ctypeslib.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/distutils/checks/cpu_lsx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/distutils/checks/cpu_rvv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/distutils/checks/cpu_sve.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/distutils/tests/utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/__version__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/_backends/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/_backends/_backend.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/_backends/_distutils.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/_backends/_meson.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/_isocbind.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/_src_pyf.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/auxfuncs.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/capi_maps.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/cb_rules.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/cfuncs.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/common_rules.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/crackfortran.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/diagnose.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/f2py2e.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/f90mod_rules.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/func2subr.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/rules.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/symbolic.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/callback/gh26681.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/crackfortran/common_with_division.f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/crackfortran/gh27697.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/modules/gh25337/data.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/modules/gh25337/use_data.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_no_public_entities.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_one_public_routine.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/modules/module_data_docstring.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/modules/use_modules.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/parameter/constant_array.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/AB.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/assignOnlyModule.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/datonly.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/f77comments.f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/f77fixedform.f95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/f90continuation.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/incfile.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/lower_f2py_fortran.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/regression/mod_derived_types.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/routines/funcfortranname.f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/routines/funcfortranname.pyf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/routines/subrout.f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/src/routines/subrout.pyf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/test_capi_maps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/test_modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/tests/test_routines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/f2py/use_rules.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/fft/_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/fft/_helper.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_umath.cpython-311-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_array_utils_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_array_utils_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_arraypad_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_arraypad_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_arraysetops_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_arraysetops_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_arrayterator_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_arrayterator_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_datasource.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_format_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_format_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_function_base_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_function_base_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_histograms_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_histograms_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_index_tricks_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_index_tricks_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_iotools.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_npyio_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_npyio_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_polynomial_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_polynomial_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_scimath_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_scimath_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_shape_base_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_shape_base_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_stride_tricks_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_stride_tricks_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_twodim_base_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_twodim_base_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_type_check_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_type_check_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_ufunclike_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_ufunclike_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_user_array_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_user_array_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_utils_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/_utils_impl.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/array_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/array_utils.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/introspect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/introspect.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/recfunctions.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/tests/data/py2-np0-objarr.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/tests/test_array_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/lib/user_array.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/linalg/_linalg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/linalg/_linalg.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/linalg/lapack_lite.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/ma/tests/test_arrayobject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/ma/testutils.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/matlib.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/polynomial/_polytypes.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/random/_common.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/random/_pickle.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/random/tests/data/generator_pcg64_np121.pkl.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/random/tests/data/generator_pcg64_np126.pkl.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/random/tests/data/sfc64_np126.pkl.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/rec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/rec/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/strings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/strings/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/testing/_private/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/testing/_private/extbuild.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/testing/overrides.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/testing/print_coercion_tables.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/tests/test_configtool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/__init__.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/fail/ma.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/fail/shape.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/fail/strings.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/lib_user_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/ma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/nditer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/recfunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/array_api_info.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/ma.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/ndarray_assignability.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/polynomial_polybase.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/polynomial_polyutils.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/polynomial_series.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/shape.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/typing/tests/data/reveal/strings.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.11/site-packages/numpy/version.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГЭ 2026 день 1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/dobavit_proverku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/mob_variant_6p_Zakharov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/polnoe_reshenie_mob.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/reshenie_mob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/цепочка.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 задание/четверки и 7 сс.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 задание/четверки и 7 сс.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-21 задания/Досрок 2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-21 задания/Досрок 2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 задание/не более 2-х раз.py" beforeDir="false" afterPath="$PROJECT_DIR$/23 задание/не более 2-х раз.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 пример файла" beforeDir="false" afterPath="$PROJECT_DIR$/24 пример файла" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25 задание/25 del.py" beforeDir="false" afterPath="$PROJECT_DIR$/25 задание/25 del.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/енкена.py" beforeDir="false" afterPath="$PROJECT_DIR$/енкена.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Артем Захаров &lt;artemzaharov@macbook-pro-artem-3.local&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="EGE" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;Nnorto&quot;
+    },
+    {
+      &quot;author&quot;: &quot;Nnorto&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;author&quot;: &quot;Nnorto&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="90d94858-222b-4046-9923-5f544fd4c726" />
+        <option name="url" value="https://github.com/Nnorto/EGE_code.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/24 пример файла" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/25 задание/25 del.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/енкена.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Z2KOHHLqajAzz4f7xrtuhEcx2n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.24 задание.executor": "Run",
+    "Python.dell.executor": "Run",
+    "Python.dobavit_proverku.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mob_variant_6p_Zakharov.executor": "Run",
+    "Python.reshenie_mob.executor": "Run",
+    "Python.енкена.executor": "Run",
+    "Python.не более 2-х раз.executor": "Run",
+    "Python.цепочка.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/artemzaharov/PycharmProjects/ЕГЭ/Разное",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Разное" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/24 задание/files" />
+      <recent name="$PROJECT_DIR$/24 задание" />
+      <recent name="$PROJECT_DIR$/27 задание/27 файлы" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Разное" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/2 задание" />
+      <recent name="$PROJECT_DIR$/27 задание" />
+      <recent name="$PROJECT_DIR$/24 задание/Файлы" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Ф скобках Н" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mob_variant_6p_Zakharov">
+    <configuration name="енкена" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/енкена.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="24 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="цепочка" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разное" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разное/цепочка.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="цепочка" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разное" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разное/цепочка.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dobavit_proverku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разное" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разное/dobavit_proverku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mob_variant_6p_Zakharov" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разное" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разное/mob_variant_6p_Zakharov.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reshenie_mob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разное" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разное/reshenie_mob.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mob_variant_6p_Zakharov" />
+        <item itemvalue="Python.dobavit_proverku" />
+        <item itemvalue="Python.reshenie_mob" />
+        <item itemvalue="Python.енкена" />
+        <item itemvalue="Python.24 задание" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27764f52-015e-40b5-8957-d4dfe834f59a" name="Changes" comment="" />
+      <created>1701614700849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701614700849</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710429936211</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1710429936211</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710522918657</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1710522918657</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710685356268</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1710685356269</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710687607994</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1710687607994</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710688875465</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1710688875465</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710694404023</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1710694404023</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1710953864807</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1710953864807</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711290270464</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1711290270464</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711553514975</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1711553514975</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711563301052</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1711563301052</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711887005564</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1711887005564</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711887702201</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1711887702201</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711888156381</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1711888156381</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711892531935</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1711892531935</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1711894025514</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1711894025514</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712076375592</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1712076375592</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712163324367</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1712163324368</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712488813990</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1712488813991</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712642726954</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1712642726954</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712767570247</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1712767570247</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712859950989</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1712859950990</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712860993875</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1712860993875</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1712940062254</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1712940062254</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713106690249</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106690249</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713114710313</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1713114710313</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713199629302</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1713199629302</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713354878122</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1713354878123</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713359578731</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1713359578731</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713361096793</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1713361096793</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713361400045</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1713361400046</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713368708498</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1713368708498</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713373546312</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1713373546312</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713718350468</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1713718350468</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1713976123575</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1713976123576</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714064945586</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064945586</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714072125595</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1714072125595</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714229164699</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1714229164699</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714237405456</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1714237405457</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714576419785</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1714576419785</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714659627645</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1714659627645</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714661238613</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1714661238613</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714662388224</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1714662388224</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714662414450</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1714662414450</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714662461496</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1714662461496</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1721672383419</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1721672383419</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1721672644577</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1721672644577</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1725030401110</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1725030401111</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1725030409683</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1725030409683</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1731743574037</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1731743574038</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a0aad7ca-adbb-4e20-874b-b1945c353d96" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="a0aad7ca-adbb-4e20-874b-b1945c353d96">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial commit код" />
+    <MESSAGE value="Шаблон" />
+    <MESSAGE value="Файлы" />
+    <MESSAGE value="открыть файл" />
+    <MESSAGE value="Информация" />
+    <MESSAGE value="Schützenpanzerwagen" />
+    <MESSAGE value="Решение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

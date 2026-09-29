@@ -17,6 +17,7 @@ def f(x,y, summ, mult):
     if x == y:
         return 1
     if x > y:
+        
         return 0
     if summ == 2:
         return f(x * 2, y, 0, mult+1)

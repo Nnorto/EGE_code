@@ -1,0 +1,44 @@
+diff --git a/шаблон 17 задание.py b/шаблон 17 задание.py
+deleted file mode 100644
+diff --git a/23зад.py b/23 задания/23зад.py
+rename from 23зад.py
+rename to 23 задания/23зад.py
+diff --git a/23дз9.py b/23 задания/23 через массив.py
+rename from 23дз9.py
+rename to 23 задания/23 через массив.py
+diff --git a/16 zad.py b/16 задания/16 zad.py
+rename from 16 zad.py
+rename to 16 задания/16 zad.py
+diff --git a/23 rek.py b/23 задания/23 рекурсия.py
+rename from 23 rek.py
+rename to 23 задания/23 рекурсия.py
+diff --git a/23 не более 2-х умножений.py b/23 задания/23 не более 2-х умножений.py
+rename from 23 не более 2-х умножений.py
+rename to 23 задания/23 не более 2-х умножений.py
+diff --git a/23дз8.py b/23 задания/23дз8.py
+rename from 23дз8.py
+rename to 23 задания/23дз8.py
+diff --git a/17 файлы/17_2.txt b/17 задания/17 файлы/17_2.txt
+rename from 17 файлы/17_2.txt
+rename to 17 задания/17 файлы/17_2.txt
+diff --git a/17 файлы/17_5.txt b/17 задания/17 файлы/17_5.txt
+rename from 17 файлы/17_5.txt
+rename to 17 задания/17 файлы/17_5.txt
+diff --git a/17 файлы/17-1.txt b/17 задания/17 файлы/17-1.txt
+rename from 17 файлы/17-1.txt
+rename to 17 задания/17 файлы/17-1.txt
+diff --git a/17 файлы/17-3.txt b/17 задания/17 файлы/17-3.txt
+rename from 17 файлы/17-3.txt
+rename to 17 задания/17 файлы/17-3.txt
+diff --git a/17 файлы/17statokt23.txt b/17 задания/17 файлы/17statokt23.txt
+rename from 17 файлы/17statokt23.txt
+rename to 17 задания/17 файлы/17statokt23.txt
+diff --git a/17 задание.py b/17 задания/17 задание.py
+rename from 17 задание.py
+rename to 17 задания/17 задание.py
+diff --git a/12 зад.py b/12 задания/12 зад.py
+rename from 12 зад.py
+rename to 12 задания/12 зад.py
+diff --git a/12.py b/12 задания/12.py
+rename from 12.py
+rename to 12 задания/12.py

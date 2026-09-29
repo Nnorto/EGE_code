@@ -27,4 +27,3 @@ for i in range(len(a) - 3):
             min_r = min(min_r, raz)
 
 print(count, min_r)
-
